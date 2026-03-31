@@ -1,0 +1,3 @@
+/give Dev cobblemontavern:maotai
+/gamerule randomTickSpeed 6
+/give Dev cobblemontavern:guangxi_gongwenbao

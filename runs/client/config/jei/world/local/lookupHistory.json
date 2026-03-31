@@ -1,0 +1,19 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:water_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:sakura_wine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemontavern:maotai"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:vodka"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:empty_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:plum_wine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:ice_wine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:wine"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:whiskey"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:champagne"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:vinegar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:molotov"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:carignan"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:brandy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kaleidoscope_tavern:barrel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
